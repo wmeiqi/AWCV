@@ -1,6 +1,4 @@
 # AWCV-100K
-[allusers-1.pdf](https://github.com/wmeiqi/Finger-in-Camera-Speaks-Everything/files/13748630/allusers-1.pdf)
-[allusers-2.pdf](https://github.com/wmeiqi/Finger-in-Camera-Speaks-Everything/files/13748627/allusers-2.pdf)
 
 
 # Demo
