@@ -1,8 +1,12 @@
 # AWCV-100K
 
+AWCV-100K is a high-quality and large-scale benchmark to create a challenging real-world experimental environment for Air-Writing. 
+
+# Latest News
+\dot
 This is the repository that contains source code for the [AWCV website](https://wmeiqi.github.io/AWCV).
 
-If you find Nerfies useful for your work please cite:
+If you find AWCV-100K useful for your work please cite:
 ```
 @article{awcv
   author    = {},
