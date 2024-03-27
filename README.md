@@ -3,6 +3,8 @@
 AWCV-100K is a high-quality and large-scale benchmark to create a challenging real-world experimental environment for Air-Writing. 
 
 # Demo
+<iframe height=498 width=510 src="https://github.com/wmeiqi/AWCV/blob/main/static/videos/demo.mp4">
+
 
 # Latest News
 - [2024.3.25] TCSVT Minor Revision
