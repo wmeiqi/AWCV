@@ -1,6 +1,6 @@
 # AWCV-100K
 
-This is the repository that contains source code for the [AWCV website](https://xuchen-li.github.io).
+This is the repository that contains source code for the [AWCV website](https://wmeiqi.github.io/AWCV).
 
 If you find Nerfies useful for your work please cite:
 ```
