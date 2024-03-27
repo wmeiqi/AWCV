@@ -17,7 +17,7 @@ https://github.com/wmeiqi/AWCV/assets/35912099/bb8daf10-1294-4479-8c23-945bfbdac
 
 # More Details
 To be continued...
-<--!This is the repository that contains source code for the [AWCV website](https://wmeiqi.github.io/AWCV).-->
+<!--This is the repository that contains source code for the [AWCV website](https://wmeiqi.github.io/AWCV).-->
 
 <!--If you find AWCV-100K useful for your work please cite:
 ```
