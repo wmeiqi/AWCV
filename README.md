@@ -3,7 +3,10 @@
 AWCV-100K is a high-quality and large-scale benchmark to create a challenging real-world experimental environment for Air-Writing. 
 
 # Latest News
-\dot
+- [2024.3.25] TCSVT Minor Revision
+- [2024.2.12] TCSVT Major Revision
+- [2023.12.23] The Paper “Finger in Camera Speaks Everything: Unconstrained Air-Writing for Real-World” was submitted in TCSVT.
+
 This is the repository that contains source code for the [AWCV website](https://wmeiqi.github.io/AWCV).
 
 If you find AWCV-100K useful for your work please cite:
