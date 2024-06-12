@@ -1,6 +1,6 @@
-# AWCV-100K
+# AWCV-100K-UCAS2024
 
-AWCV-100K is a high-quality and large-scale benchmark to create a challenging real-world experimental environment for Air-Writing. 
+AWCV-100K-UCAS2024 is a high-quality and large-scale benchmark to create a challenging real-world experimental environment for Air-Writing. 
 
 # Demo
 https://github.com/wmeiqi/AWCV/assets/35912099/bb8daf10-1294-4479-8c23-945bfbdacd11
@@ -8,12 +8,13 @@ https://github.com/wmeiqi/AWCV/assets/35912099/bb8daf10-1294-4479-8c23-945bfbdac
 
 
 # Latest News
+- [2024.4.2] Accepted by TCSVT
 - [2024.3.25] TCSVT Minor Revision
 - [2024.2.12] TCSVT Major Revision
 - [2023.12.23] The paper “Finger in Camera Speaks Everything: Unconstrained Air-Writing for Real-World” was submitted in TCSVT.
 
 # Publications
-"Finger in Camera Speaks Everything: Unconstrained Air-Writing for Real-World" Minor Revision of TCSVT.
+"Finger in Camera Speaks Everything: Unconstrained Air-Writing for Real-World" Accepted by TCSVT.
 
 # More Details
 To be continued...
