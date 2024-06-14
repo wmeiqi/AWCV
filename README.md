@@ -10,14 +10,18 @@ Air-writing is a challenging task that combines the fields of computer vision an
 # AWCV-100K-UCAS2024
 
 AWCV-100K-UCAS2024 is a high-quality and large-scale benchmark to create a challenging real-world experimental environment for Air-Writing. 
+
 ![example_00(1)](https://github.com/wmeiqi/AWCV/assets/35912099/900f16c4-902c-4f40-8d4a-31ecc933d9c4)
 
 ## Demo
+
 https://github.com/wmeiqi/AWCV/assets/35912099/bb8daf10-1294-4479-8c23-945bfbdacd11
 
 ## Download
 
+
 # Latest News
+
 - [2024.4.2] Accepted by TCSVT
 - [2024.3.25] TCSVT Minor Revision
 - [2024.2.12] TCSVT Major Revision
