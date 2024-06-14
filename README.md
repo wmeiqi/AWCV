@@ -19,6 +19,7 @@ https://github.com/wmeiqi/AWCV/assets/35912099/bb8daf10-1294-4479-8c23-945bfbdac
 
 ## Download
 
+[Baiduyun Disk AWCV-100K-UCAS2024](https://pan.baidu.com/s/1cLFlEFio8_3hTcgMbWMKig?pwd=r0ur) 
 
 # Latest News
 
